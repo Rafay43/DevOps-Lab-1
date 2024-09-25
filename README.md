@@ -1,2 +1,2 @@
 # DevOps-Lab-1
-Its for the first lab
+this code is good
